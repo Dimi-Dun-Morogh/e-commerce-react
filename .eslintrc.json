@@ -26,6 +26,7 @@
     "react/sort-comp": "off",
     "react/prop-types": "off",
     "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx"] }],
+    "no-shadow":"off",
     "max-len": [
       "warn",
       {
